@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Nebojsa",
+      "lastName": "Neskoski",
+      "title": "Web developer",
+      "department": "IT",
+      "userRole": "Administrator",
+      "userName": "neskoskin"
+    },
+    {
+      "firstName": "Daniel",
+      "lastName": "Neskoski",
+      "title": "Web Designer",
+      "department": "IT",
+      "userRole": "Admin",
+      "userName": "neskoskid",
+      "id": 2
+    }
+  ]
+}
